@@ -1,2 +1,2 @@
 # OREGO
-![](https://github.com/OregoCorporation/OREGO/blob/master/pictures/maket.png=250x250)
+![](https://github.com/OregoCorporation/OREGO/blob/master/pictures/maket.png "Макет проекта")
