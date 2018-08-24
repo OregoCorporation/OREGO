@@ -1,2 +1,2 @@
 # OREGO
-![Alt-текст](https://github.com/OregoCorporation/OREGO/blob/master/pictures/maket.png | width=100)
+![](https://github.com/OregoCorporation/OREGO/blob/master/pictures/maket.png=250x250)
